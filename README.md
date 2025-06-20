@@ -31,7 +31,7 @@ The main files you'll work with are:
 
 ## Next Steps
 
-asdsadsa
+hello
 
 Ready to start building? Check out the comprehensive guides:
 
