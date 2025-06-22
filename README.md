@@ -31,8 +31,6 @@ The main files you'll work with are:
 
 ## Next Steps
 
-helloasdsadas
-
 Ready to start building? Check out the comprehensive guides:
 
 - **[Deploying Your App](https://sim-dune-docs-idx.mintlify.app/idx-quickstart#authentication)** - Deploy your app
